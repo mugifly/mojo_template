@@ -1,0 +1,1338 @@
+[Thu Nov  8 08:53:37 2012] [info] Listening at "http://*:3000".
+[Thu Nov  8 08:53:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 08:53:42 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 08:53:42 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 08:53:42 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 08:53:42 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 08:53:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 08:53:42 2012] [debug] 200 OK (0.318847s, 3.136/s).
+[Thu Nov  8 09:00:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:00:52 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:00:52 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:00:52 2012] [debug] 200 OK (0.021052s, 47.501/s).
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET /assets/css/bootstrap.css (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:00:52 2012] [debug] 404 Not Found (0.015481s, 64.595/s).
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET /assets/css/bootstrap-responsive.css (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] 404 Not Found (0.005654s, 176.866/s).
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] 404 Not Found (0.009722s, 102.859/s).
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:00:52 2012] [debug] 200 OK (0.003970s, 251.889/s).
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET /assets/css/bootstrap.css (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] 404 Not Found (0.007271s, 137.533/s).
+[Thu Nov  8 09:00:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:52 2012] [debug] GET /assets/css/bootstrap-responsive.css (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:52 2012] [debug] 404 Not Found (0.005767s, 173.400/s).
+[Thu Nov  8 09:00:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:00:53 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:00:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:00:53 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:00:53 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:53 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:00:53 2012] [debug] 404 Not Found (0.009953s, 100.472/s).
+[Thu Nov  8 09:02:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:02:56 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:02:56 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:02:56 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:02:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:02:57 2012] [debug] 200 OK (0.067622s, 14.788/s).
+[Thu Nov  8 09:02:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:57 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:57 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:02:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:02:57 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:02:57 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:02:57 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:02:57 2012] [debug] 404 Not Found (0.015300s, 65.359/s).
+[Thu Nov  8 09:02:58 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:58 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:02:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:02:58 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:02:58 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:02:58 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:02:58 2012] [debug] 404 Not Found (0.005147s, 194.288/s).
+[Thu Nov  8 09:02:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:02:59 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:02:59 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:02:59 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:02:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:02:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:02:59 2012] [debug] 404 Not Found (0.010012s, 99.880/s).
+[Thu Nov  8 09:03:08 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:03:08 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:03:08 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:03:08 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:03:08 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:08 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:08 2012] [debug] 404 Not Found (0.011692s, 85.529/s).
+[Thu Nov  8 09:03:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:03:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:03:10 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:03:10 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:03:10 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:03:10 2012] [debug] 200 OK (0.005273s, 189.645/s).
+[Thu Nov  8 09:03:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:03:10 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:03:10 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:03:10 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:03:10 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:10 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:10 2012] [debug] 404 Not Found (0.009788s, 102.166/s).
+[Thu Nov  8 09:03:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:03:15 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:03:15 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:03:15 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:03:15 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:15 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:15 2012] [debug] 404 Not Found (0.006264s, 159.642/s).
+[Thu Nov  8 09:03:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:03:15 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:03:15 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:03:15 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:03:15 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:15 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:03:15 2012] [debug] 404 Not Found (0.009728s, 102.796/s).
+[Thu Nov  8 09:08:04 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:08:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:04 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:04 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:04 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:08:04 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:08:04 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:04 2012] [debug] 200 OK (0.023125s, 43.243/s).
+[Thu Nov  8 09:08:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:04 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:04 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:04 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:04 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:04 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:04 2012] [debug] 404 Not Found (0.029775s, 33.585/s).
+[Thu Nov  8 09:08:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:05 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:05 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:05 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:08:05 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:08:05 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:05 2012] [debug] 200 OK (0.004846s, 206.356/s).
+[Thu Nov  8 09:08:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:05 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:05 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:05 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:05 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:05 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:05 2012] [debug] 404 Not Found (0.008101s, 123.442/s).
+[Thu Nov  8 09:08:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:08:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:13 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:13 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:08:13 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:08:13 2012] [debug] Template "../includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:13 2012] [debug] 200 OK (0.020463s, 48.869/s).
+[Thu Nov  8 09:08:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:14 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:14 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:14 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:14 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:14 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:14 2012] [debug] 404 Not Found (0.018216s, 54.897/s).
+[Thu Nov  8 09:08:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:14 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:14 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:08:14 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:08:14 2012] [debug] Template "../includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:14 2012] [debug] 200 OK (0.006279s, 159.261/s).
+[Thu Nov  8 09:08:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:15 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:15 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:15 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:15 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:15 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:15 2012] [debug] 404 Not Found (0.007191s, 139.063/s).
+[Thu Nov  8 09:08:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:15 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:15 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:15 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:08:15 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:08:15 2012] [debug] Template "../includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:15 2012] [debug] 200 OK (0.004111s, 243.250/s).
+[Thu Nov  8 09:08:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:15 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:16 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:16 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:16 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:16 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:16 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:16 2012] [debug] 404 Not Found (0.012586s, 79.453/s).
+[Thu Nov  8 09:08:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:08:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:45 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:45 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:08:45 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:08:45 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:45 2012] [debug] 200 OK (0.020409s, 48.998/s).
+[Thu Nov  8 09:08:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:45 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:45 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:45 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:45 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:45 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:45 2012] [debug] 404 Not Found (0.023819s, 41.983/s).
+[Thu Nov  8 09:08:51 2012] [info] Listening at "http://*:3000".
+[Thu Nov  8 09:08:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:53 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:53 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:08:53 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:08:53 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:53 2012] [debug] 200 OK (0.021011s, 47.594/s).
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:53 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:53 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:53 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:08:53 2012] [debug] 404 Not Found (0.026320s, 37.994/s).
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:53 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:08:53 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:08:53 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:08:53 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:08:53 2012] [debug] 200 OK (0.003204s, 312.110/s).
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:54 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:08:54 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:08:54 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:08:54 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:08:54 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:54 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:08:54 2012] [debug] 404 Not Found (0.005792s, 172.652/s).
+[Thu Nov  8 09:09:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:09:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:16 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:09:16 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:09:16 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:09:16 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:09:16 2012] [debug] 200 OK (0.022241s, 44.962/s).
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:17 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:09:17 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:09:17 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:09:17 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:09:17 2012] [debug] 404 Not Found (0.024284s, 41.179/s).
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:17 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:09:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:09:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:09:17 2012] [debug] Template "includes/include_header_loginform.html.ep.html.ep" not found.
+[Thu Nov  8 09:09:17 2012] [debug] 200 OK (0.007221s, 138.485/s).
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:18 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:18 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:18 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:09:18 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:09:18 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:09:18 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:09:18 2012] [debug] 404 Not Found (0.010271s, 97.362/s).
+[Thu Nov  8 09:09:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:09:36 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:36 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:09:36 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:09:36 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:09:37 2012] [debug] Rendering template "includes/include_header_loginform.html.ep".
+[Thu Nov  8 09:09:37 2012] [debug] 200 OK (0.025059s, 39.906/s).
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:09:37 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:09:37 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:09:37 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:09:37 2012] [debug] 404 Not Found (0.016432s, 60.857/s).
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:37 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:09:37 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:09:37 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:09:37 2012] [debug] Rendering cached template "includes/include_header_loginform.html.ep".
+[Thu Nov  8 09:09:37 2012] [debug] 200 OK (0.008275s, 120.846/s).
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:37 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:38 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:38 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:38 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:09:38 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:09:38 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:09:38 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:09:38 2012] [debug] 404 Not Found (0.008003s, 124.953/s).
+[Thu Nov  8 09:09:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:09:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:51 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:09:51 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:09:51 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:09:51 2012] [debug] Rendering template "includes/include_header_loginform.html.ep".
+[Thu Nov  8 09:09:51 2012] [debug] 200 OK (0.028884s, 34.621/s).
+[Thu Nov  8 09:09:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:09:52 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:09:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:09:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:09:52 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:09:52 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:09:52 2012] [debug] 404 Not Found (0.014872s, 67.240/s).
+[Thu Nov  8 09:10:04 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:10:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:10:04 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:10:04 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:10:04 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:10:04 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:10:04 2012] [debug] Rendering template "includes/include_header_loginform.html.ep".
+[Thu Nov  8 09:10:04 2012] [debug] 200 OK (0.025627s, 39.021/s).
+[Thu Nov  8 09:10:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:10:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:10:04 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:10:05 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:10:05 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:10:05 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:10:05 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:10:05 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:10:05 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:10:05 2012] [debug] 404 Not Found (0.019051s, 52.491/s).
+[Thu Nov  8 09:13:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:13:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:13:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:13:12 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:13:12 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:13:12 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:13:12 2012] [debug] Rendering template "includes/include_header_loginform.html.ep".
+[Thu Nov  8 09:13:12 2012] [debug] 200 OK (0.026699s, 37.455/s).
+[Thu Nov  8 09:13:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:13:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:13:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:13:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:13:13 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:13:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:13:13 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:13:13 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:13:13 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:13:13 2012] [debug] 404 Not Found (0.018856s, 53.034/s).
+[Thu Nov  8 09:14:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:14:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:43 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:43 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:14:43 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:14:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:14:43 2012] [debug] 200 OK (0.022432s, 44.579/s).
+[Thu Nov  8 09:14:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:44 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:44 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:44 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:14:44 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:14:44 2012] [debug] 404 Not Found (0.023270s, 42.974/s).
+[Thu Nov  8 09:14:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:45 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:45 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:45 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:45 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:45 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:45 2012] [debug] 404 Not Found (0.009215s, 108.519/s).
+[Thu Nov  8 09:14:46 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:46 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:46 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:46 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:46 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:46 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:46 2012] [debug] 404 Not Found (0.008342s, 119.875/s).
+[Thu Nov  8 09:14:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:49 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:49 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:49 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:49 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:49 2012] [debug] 404 Not Found (0.007644s, 130.822/s).
+[Thu Nov  8 09:14:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:50 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:50 2012] [debug] 404 Not Found (0.007506s, 133.227/s).
+[Thu Nov  8 09:14:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:50 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:50 2012] [debug] 404 Not Found (0.007983s, 125.266/s).
+[Thu Nov  8 09:14:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:14:50 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:14:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:14:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:14:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:14:50 2012] [debug] 404 Not Found (0.009546s, 104.756/s).
+[Thu Nov  8 09:15:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:15:43 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:43 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:15:43 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:15:43 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:15:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:15:43 2012] [debug] 200 OK (0.023841s, 41.945/s).
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:15:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:15:44 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:15:44 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:15:44 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:15:44 2012] [debug] 404 Not Found (0.016100s, 62.112/s).
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:15:44 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:15:44 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Nov  8 09:15:44 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 09:15:44 2012] [debug] 200 OK (0.009314s, 107.365/s).
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:44 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:45 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:15:45 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:15:45 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:15:45 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:15:45 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:15:45 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 09:15:45 2012] [debug] 404 Not Found (0.006028s, 165.893/s).
+[Thu Nov  8 09:16:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:16:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:16:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:16:19 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:16:19 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:16:19 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:16:19 2012] [debug] 200 OK (0.022379s, 44.685/s).
+[Thu Nov  8 09:16:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:16:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:16:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:16:19 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:16:19 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:16:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:16:19 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:16:19 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:16:19 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:16:19 2012] [debug] 404 Not Found (0.017186s, 58.187/s).
+[Thu Nov  8 09:17:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Nov  8 09:17:27 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:17:27 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:17:27 2012] [debug] Routing to controller "OdenSchedule::Example" and action "welcome".
+[Thu Nov  8 09:17:27 2012] [debug] Rendering template "example/welcome.html.ep".
+[Thu Nov  8 09:17:27 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 09:17:27 2012] [debug] 200 OK (0.024180s, 41.356/s).
+[Thu Nov  8 09:17:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:17:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:17:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:17:28 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 09:17:28 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 09:17:28 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 09:17:28 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 09:17:28 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:17:28 2012] [debug] Rendering inline template.
+[Thu Nov  8 09:17:28 2012] [debug] 404 Not Found (0.018351s, 54.493/s).
+[Thu Nov  8 16:57:46 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 16:57:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:57:49 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:57:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:57:49 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:57:49 2012] [debug] Rendering inline template.
+[Thu Nov  8 16:57:49 2012] [debug] Rendering inline template.
+[Thu Nov  8 16:57:49 2012] [debug] 404 Not Found (0.020490s, 48.804/s).
+[Thu Nov  8 16:57:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:50 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:57:50 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:57:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:57:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:57:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:57:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:57:50 2012] [debug] 404 Not Found (0.006966s, 143.554/s).
+[Thu Nov  8 16:57:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:50 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:57:55 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:57:55 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:57:55 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:57:55 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:57:55 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:57:55 2012] [debug] 404 Not Found (0.011003s, 90.884/s).
+[Thu Nov  8 16:57:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:57:55 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:28 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 16:58:30 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 16:58:36 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 16:58:46 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 16:58:47 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:58:47 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:58:47 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:58:47 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:58:47 2012] [debug] Rendering inline template.
+[Thu Nov  8 16:58:47 2012] [debug] Rendering inline template.
+[Thu Nov  8 16:58:47 2012] [debug] 404 Not Found (0.018589s, 53.795/s).
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:58:48 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:58:48 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:58:48 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:58:48 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:58:48 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:58:48 2012] [debug] 404 Not Found (0.010222s, 97.828/s).
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:48 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:58:49 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:58:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:58:49 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:58:49 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:58:49 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:58:49 2012] [debug] 404 Not Found (0.013689s, 73.051/s).
+[Thu Nov  8 16:58:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:58:49 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:14 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 16:59:14 2012] [info] Listening at "http://*:3000".
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:59:16 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:59:16 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:59:16 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:59:16 2012] [debug] Rendering inline template.
+[Thu Nov  8 16:59:16 2012] [debug] Rendering inline template.
+[Thu Nov  8 16:59:16 2012] [debug] 404 Not Found (0.017925s, 55.788/s).
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:59:16 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:59:16 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:59:16 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:59:16 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:59:16 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:59:17 2012] [debug] 404 Not Found (0.018147s, 55.106/s).
+[Thu Nov  8 16:59:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:17 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:53 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 16:59:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 16:59:53 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 16:59:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 16:59:53 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 16:59:53 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:59:53 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 16:59:53 2012] [debug] 404 Not Found (0.007292s, 137.137/s).
+[Thu Nov  8 17:00:01 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:00:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:01 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:01 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:01 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:01 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:01 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:01 2012] [debug] 404 Not Found (0.019488s, 51.314/s).
+[Thu Nov  8 17:00:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:01 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:02 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:02 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:02 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:02 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:02 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:02 2012] [debug] 404 Not Found (0.006950s, 143.885/s).
+[Thu Nov  8 17:00:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:02 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:03 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:03 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:03 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:03 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:03 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:03 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:03 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:03 2012] [debug] 404 Not Found (0.008605s, 116.212/s).
+[Thu Nov  8 17:00:06 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:00:20 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:23 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:23 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:23 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:23 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:23 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:23 2012] [debug] 404 Not Found (0.015735s, 63.553/s).
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:23 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:23 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:23 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:23 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:23 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:23 2012] [debug] 404 Not Found (0.007911s, 126.406/s).
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:23 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:30 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:31 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:31 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:31 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:31 2012] [debug] 404 Not Found (0.016472s, 60.709/s).
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:31 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:31 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:31 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:31 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:31 2012] [debug] 404 Not Found (0.008853s, 112.956/s).
+[Thu Nov  8 17:00:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:32 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:34 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:34 2012] [debug] GET /top (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:34 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:34 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:34 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:34 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:00:34 2012] [debug] 404 Not Found (0.021078s, 47.443/s).
+[Thu Nov  8 17:00:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:35 2012] [debug] GET /top (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:00:35 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:00:35 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:00:35 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:00:35 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:35 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:00:35 2012] [debug] 404 Not Found (0.006675s, 149.813/s).
+[Thu Nov  8 17:00:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:00:35 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:06 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:01:10 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:01:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:12 2012] [debug] GET /top (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:01:12 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:01:12 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:01:12 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:01:12 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:01:12 2012] [debug] 404 Not Found (0.019437s, 51.448/s).
+[Thu Nov  8 17:01:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:12 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:13 2012] [debug] GET /top (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:01:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:01:13 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:01:13 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:01:13 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:01:13 2012] [debug] 404 Not Found (0.012067s, 82.871/s).
+[Thu Nov  8 17:01:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:13 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:14 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:01:14 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:01:14 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:01:14 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:01:14 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:01:14 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:01:14 2012] [debug] 404 Not Found (0.022128s, 45.192/s).
+[Thu Nov  8 17:01:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:01:16 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:01:16 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:01:16 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:01:16 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:01:16 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:01:16 2012] [debug] 404 Not Found (0.007770s, 128.700/s).
+[Thu Nov  8 17:01:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:01:16 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:02:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:02:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:02:51 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:02:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:02:51 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:02:51 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:02:51 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:02:51 2012] [debug] 404 Not Found (0.009193s, 108.778/s).
+[Thu Nov  8 17:02:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:02:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:02:51 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:02:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:02:52 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:04:10 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:04:10 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:04:10 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:04:10 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:04:10 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:04:10 2012] [debug] 404 Not Found (0.007196s, 138.966/s).
+[Thu Nov  8 17:04:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:10 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:11 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:11 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:04:59 2012] [debug] Controller "Example::Controller::Bridge" does not exist.
+[Thu Nov  8 17:04:59 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:04:59 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:04:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:04:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:04:59 2012] [debug] 404 Not Found (0.007861s, 127.210/s).
+[Thu Nov  8 17:04:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:04:59 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:05:22 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:05:22 2012] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Thu Nov  8 17:05:22 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:22 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:05:22 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:05:22 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:05:22 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:05:22 2012] [debug] 200 OK (0.079832s, 12.526/s).
+[Thu Nov  8 17:05:23 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:23 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:23 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:23 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:05:23 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:05:23 2012] [debug] 404 Not Found (0.017375s, 57.554/s).
+[Thu Nov  8 17:05:24 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:24 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:24 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:24 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:24 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:24 2012] [debug] 404 Not Found (0.007766s, 128.766/s).
+[Thu Nov  8 17:05:48 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:05:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:49 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:05:49 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:05:49 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:05:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:05:49 2012] [debug] 200 OK (0.026560s, 37.651/s).
+[Thu Nov  8 17:05:49 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:49 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:49 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:05:49 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:05:49 2012] [debug] 404 Not Found (0.016309s, 61.316/s).
+[Thu Nov  8 17:05:51 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:51 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:51 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:51 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:51 2012] [debug] 404 Not Found (0.009181s, 108.921/s).
+[Thu Nov  8 17:05:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:52 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:05:52 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:05:52 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:05:52 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:05:52 2012] [debug] 200 OK (0.009717s, 102.912/s).
+[Thu Nov  8 17:05:52 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:52 2012] [debug] 404 Not Found (0.006496s, 153.941/s).
+[Thu Nov  8 17:05:54 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:54 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:05:54 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:05:54 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:05:54 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:05:54 2012] [debug] 200 OK (0.005181s, 193.013/s).
+[Thu Nov  8 17:05:54 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:54 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:54 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:54 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:54 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:54 2012] [debug] 404 Not Found (0.006969s, 143.493/s).
+[Thu Nov  8 17:05:56 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:05:56 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:05:56 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:05:56 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:56 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:05:56 2012] [debug] 404 Not Found (0.009144s, 109.361/s).
+[Thu Nov  8 17:06:33 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:06:38 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:07:08 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:07:21 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:07:30 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:07:35 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:07:37 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:07:37 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:07:37 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:07:37 2012] [debug] Template "session/login.html.ep" not found.
+[Thu Nov  8 17:07:37 2012] [debug] Template "session/login.html.ep" not found.
+[Thu Nov  8 17:07:37 2012] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Nov  8 17:07:52 2012] [debug] Inactivity timeout.
+[Thu Nov  8 17:09:06 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:09:06 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:09:06 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:09:06 2012] [debug] Template "session/login.html.ep" not found.
+[Thu Nov  8 17:09:06 2012] [debug] Template "session/login.html.ep" not found.
+[Thu Nov  8 17:09:06 2012] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Nov  8 17:09:21 2012] [debug] Inactivity timeout.
+[Thu Nov  8 17:09:48 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:09:50 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:10:20 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:10:21 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:10:21 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:10:21 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:10:21 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:10:21 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:10:21 2012] [debug] 200 OK (0.023076s, 43.335/s).
+[Thu Nov  8 17:10:45 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:10:47 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:10:47 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:10:47 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:10:47 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:10:47 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:10:47 2012] [debug] 200 OK (0.023575s, 42.418/s).
+[Thu Nov  8 17:10:51 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:10:59 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:10:59 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:10:59 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:10:59 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:10:59 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:10:59 2012] [debug] 200 OK (0.022525s, 44.395/s).
+[Thu Nov  8 17:11:09 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:11:13 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:11:16 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:11:16 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:11:16 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:11:16 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:11:16 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:11:16 2012] [debug] 200 OK (0.020787s, 48.107/s).
+[Thu Nov  8 17:11:25 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:11:27 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:11:27 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:11:27 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:11:27 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:11:27 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:11:27 2012] [debug] 200 OK (0.025371s, 39.415/s).
+[Thu Nov  8 17:11:44 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:11:45 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:11:45 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:11:45 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:11:45 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:11:45 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:11:45 2012] [debug] 200 OK (0.023359s, 42.810/s).
+[Thu Nov  8 17:12:29 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:12:29 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:29 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:12:29 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:12:29 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:12:29 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:12:29 2012] [debug] 200 OK (0.023360s, 42.808/s).
+[Thu Nov  8 17:12:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:34 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:12:34 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:12:34 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:12:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:12:34 2012] [debug] 200 OK (0.014816s, 67.495/s).
+[Thu Nov  8 17:12:34 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:34 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:34 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:12:34 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:12:34 2012] [debug] 404 Not Found (0.019811s, 50.477/s).
+[Thu Nov  8 17:12:36 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:36 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:36 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:36 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:36 2012] [debug] 404 Not Found (0.007974s, 125.408/s).
+[Thu Nov  8 17:12:38 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:38 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:12:38 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:12:38 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:12:38 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:12:38 2012] [debug] 200 OK (0.007898s, 126.614/s).
+[Thu Nov  8 17:12:38 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:38 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:38 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:38 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:38 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:38 2012] [debug] 404 Not Found (0.009762s, 102.438/s).
+[Thu Nov  8 17:12:49 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:49 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:49 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:49 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:49 2012] [debug] 404 Not Found (0.009327s, 107.216/s).
+[Thu Nov  8 17:12:50 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:50 2012] [debug] 404 Not Found (0.005661s, 176.647/s).
+[Thu Nov  8 17:12:50 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:50 2012] [debug] 404 Not Found (0.007902s, 126.550/s).
+[Thu Nov  8 17:12:50 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:50 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:50 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:50 2012] [debug] 404 Not Found (0.006568s, 152.253/s).
+[Thu Nov  8 17:12:51 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:51 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:51 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:51 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:51 2012] [debug] 404 Not Found (0.010487s, 95.356/s).
+[Thu Nov  8 17:12:52 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:52 2012] [debug] 404 Not Found (0.006346s, 157.580/s).
+[Thu Nov  8 17:12:54 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:54 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:12:54 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:12:54 2012] [debug] Rendering cached template "session/login.html.ep".
+[Thu Nov  8 17:12:54 2012] [debug] Rendering cached template "layouts/login.html.ep".
+[Thu Nov  8 17:12:54 2012] [debug] 200 OK (0.004793s, 208.638/s).
+[Thu Nov  8 17:12:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:55 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:12:55 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:12:55 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:12:55 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:12:55 2012] [debug] 200 OK (0.009358s, 106.860/s).
+[Thu Nov  8 17:12:56 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:12:56 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:12:56 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:12:56 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:56 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:12:56 2012] [debug] 404 Not Found (0.006675s, 149.813/s).
+[Thu Nov  8 17:13:10 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:13:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:13:10 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:13:10 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:13:10 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:13:10 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:13:10 2012] [debug] 200 OK (0.022763s, 43.931/s).
+[Thu Nov  8 17:13:10 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:13:10 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:13:10 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:13:10 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:13:11 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:13:11 2012] [debug] 404 Not Found (0.022339s, 44.765/s).
+[Thu Nov  8 17:13:12 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:13:12 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:13:12 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:13:12 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:13:12 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:13:12 2012] [debug] 200 OK (0.013153s, 76.028/s).
+[Thu Nov  8 17:13:22 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:13:23 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:13:23 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:13:23 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:13:23 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:13:23 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:13:23 2012] [debug] 200 OK (0.023080s, 43.328/s).
+[Thu Nov  8 17:13:54 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:13:55 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:13:55 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:13:55 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:13:55 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:13:55 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:13:55 2012] [debug] 200 OK (0.023802s, 42.013/s).
+[Thu Nov  8 17:14:07 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:14:07 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:07 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:07 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:14:07 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:14:07 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:14:07 2012] [debug] 200 OK (0.022878s, 43.710/s).
+[Thu Nov  8 17:14:16 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:14:17 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:17 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:17 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:14:17 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:14:17 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:14:17 2012] [debug] 200 OK (0.023321s, 42.880/s).
+[Thu Nov  8 17:14:25 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:14:26 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:26 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:26 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:14:26 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:14:26 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:14:26 2012] [debug] 200 OK (0.024661s, 40.550/s).
+[Thu Nov  8 17:14:40 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:40 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:40 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:14:40 2012] [debug] Rendering cached template "session/login.html.ep".
+[Thu Nov  8 17:14:40 2012] [debug] Rendering cached template "layouts/login.html.ep".
+[Thu Nov  8 17:14:40 2012] [debug] 200 OK (0.002588s, 386.399/s).
+[Thu Nov  8 17:14:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:45 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:45 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:14:45 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:14:45 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:14:45 2012] [debug] 200 OK (0.023743s, 42.118/s).
+[Thu Nov  8 17:14:46 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:46 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:14:46 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:14:46 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:14:46 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:14:46 2012] [debug] 404 Not Found (0.016649s, 60.064/s).
+[Thu Nov  8 17:14:48 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:48 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:48 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:14:48 2012] [debug] Rendering cached template "session/login.html.ep".
+[Thu Nov  8 17:14:48 2012] [debug] Rendering cached template "layouts/login.html.ep".
+[Thu Nov  8 17:14:48 2012] [debug] 200 OK (0.005514s, 181.357/s).
+[Thu Nov  8 17:14:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:52 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:52 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:14:52 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:14:52 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:14:52 2012] [debug] 200 OK (0.005192s, 192.604/s).
+[Thu Nov  8 17:14:52 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:14:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:14:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:52 2012] [debug] 404 Not Found (0.012258s, 81.579/s).
+[Thu Nov  8 17:14:55 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:55 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:55 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:14:55 2012] [debug] Rendering cached template "session/login.html.ep".
+[Thu Nov  8 17:14:55 2012] [debug] Rendering cached template "layouts/login.html.ep".
+[Thu Nov  8 17:14:55 2012] [debug] 200 OK (0.008405s, 118.977/s).
+[Thu Nov  8 17:14:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:57 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:14:57 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:14:57 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:14:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:14:57 2012] [debug] 200 OK (0.012059s, 82.926/s).
+[Thu Nov  8 17:14:57 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:14:57 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:14:57 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:57 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:57 2012] [debug] 404 Not Found (0.006399s, 156.274/s).
+[Thu Nov  8 17:14:59 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:59 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:14:59 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:14:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:59 2012] [debug] 404 Not Found (0.010146s, 98.561/s).
+[Thu Nov  8 17:14:59 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:14:59 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:14:59 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:14:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:59 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:14:59 2012] [debug] 404 Not Found (0.009822s, 101.812/s).
+[Thu Nov  8 17:15:00 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:00 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:15:00 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:15:00 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:00 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:00 2012] [debug] 404 Not Found (0.007925s, 126.183/s).
+[Thu Nov  8 17:15:30 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:15:31 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:31 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:15:31 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:15:31 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:15:31 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:15:31 2012] [debug] 200 OK (0.025553s, 39.134/s).
+[Thu Nov  8 17:15:31 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:15:31 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:15:31 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:15:31 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:15:31 2012] [debug] 404 Not Found (0.018459s, 54.174/s).
+[Thu Nov  8 17:15:51 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:15:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:51 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:15:51 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:15:51 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:15:51 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:15:51 2012] [debug] 200 OK (0.024755s, 40.396/s).
+[Thu Nov  8 17:15:51 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:15:51 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:15:51 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:15:51 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:15:51 2012] [debug] 404 Not Found (0.016419s, 60.905/s).
+[Thu Nov  8 17:15:52 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:15:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:15:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:52 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:52 2012] [debug] 404 Not Found (0.006423s, 155.690/s).
+[Thu Nov  8 17:15:53 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:15:53 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:15:53 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:53 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:53 2012] [debug] 404 Not Found (0.009329s, 107.193/s).
+[Thu Nov  8 17:15:54 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:15:54 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:15:54 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:15:54 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:54 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:15:54 2012] [debug] 404 Not Found (0.009465s, 105.652/s).
+[Thu Nov  8 17:16:04 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:16:08 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:16:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:10 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:10 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:16:10 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:16:10 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:16:10 2012] [debug] 200 OK (0.023235s, 43.039/s).
+[Thu Nov  8 17:16:11 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:11 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:16:11 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:16:11 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:16:11 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:16:11 2012] [debug] 404 Not Found (0.017107s, 58.456/s).
+[Thu Nov  8 17:16:11 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:11 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:11 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:16:11 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:16:12 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:16:12 2012] [debug] 200 OK (0.020071s, 49.823/s).
+[Thu Nov  8 17:16:30 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:16:33 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:33 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:33 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:16:33 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:16:33 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:16:33 2012] [debug] 200 OK (0.021271s, 47.012/s).
+[Thu Nov  8 17:16:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:36 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:36 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:16:36 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:16:36 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:16:36 2012] [debug] 200 OK (0.011025s, 90.703/s).
+[Thu Nov  8 17:16:36 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:16:36 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:16:36 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:16:36 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:16:36 2012] [debug] 404 Not Found (0.018709s, 53.450/s).
+[Thu Nov  8 17:16:38 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:38 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:38 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:16:38 2012] [debug] Rendering cached template "session/login.html.ep".
+[Thu Nov  8 17:16:38 2012] [debug] Rendering cached template "layouts/login.html.ep".
+[Thu Nov  8 17:16:38 2012] [debug] 200 OK (0.005752s, 173.853/s).
+[Thu Nov  8 17:16:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:40 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:40 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:16:40 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:16:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:16:40 2012] [debug] 200 OK (0.011097s, 90.114/s).
+[Thu Nov  8 17:16:40 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:16:40 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:16:40 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:16:40 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:16:40 2012] [debug] 404 Not Found (0.006689s, 149.499/s).
+[Thu Nov  8 17:16:46 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:16:57 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:16:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:58 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:16:58 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:16:58 2012] [debug] Rendering template "top/top.html.ep".
+[Thu Nov  8 17:16:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Nov  8 17:16:58 2012] [debug] 200 OK (0.023309s, 42.902/s).
+[Thu Nov  8 17:16:58 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:16:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:16:58 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:16:58 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:16:58 2012] [debug] Rendering inline template.
+[Thu Nov  8 17:16:58 2012] [debug] 404 Not Found (0.020599s, 48.546/s).
+[Thu Nov  8 17:17:00 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:00 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:17:00 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:17:00 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:00 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:00 2012] [debug] 404 Not Found (0.007949s, 125.802/s).
+[Thu Nov  8 17:17:02 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:02 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:17:02 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:17:02 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:17:02 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:17:02 2012] [debug] 200 OK (0.017650s, 56.657/s).
+[Thu Nov  8 17:17:04 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:04 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:17:04 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:17:04 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:04 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:04 2012] [debug] 404 Not Found (0.006251s, 159.974/s).
+[Thu Nov  8 17:17:06 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:06 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:17:06 2012] [debug] Routing to controller "Example::Controller::Top" and action "top".
+[Thu Nov  8 17:17:06 2012] [debug] Rendering cached template "top/top.html.ep".
+[Thu Nov  8 17:17:06 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Nov  8 17:17:06 2012] [debug] 200 OK (0.011192s, 89.350/s).
+[Thu Nov  8 17:17:06 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:06 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:17:06 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:17:06 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:06 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:06 2012] [debug] 404 Not Found (0.012890s, 77.580/s).
+[Thu Nov  8 17:17:08 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:08 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Nov  8 17:17:08 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Nov  8 17:17:08 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:08 2012] [debug] Rendering cached inline template.
+[Thu Nov  8 17:17:08 2012] [debug] 404 Not Found (0.012714s, 78.653/s).
+[Thu Nov  8 17:17:24 2012] [debug] Reading config file "/home/masanori/aptana_workspace/mojo_template/login_site/config/config.conf".
+[Thu Nov  8 17:17:24 2012] [info] Listening at "http://*:3000".
+[Thu Nov  8 17:17:25 2012] [debug] GET /login (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Thu Nov  8 17:17:25 2012] [debug] Routing to controller "Example::Controller::Bridge" and action "login_check".
+[Thu Nov  8 17:17:25 2012] [debug] Routing to controller "Example::Controller::Session" and action "login".
+[Thu Nov  8 17:17:25 2012] [debug] Rendering template "session/login.html.ep".
+[Thu Nov  8 17:17:25 2012] [debug] Rendering template "layouts/login.html.ep".
+[Thu Nov  8 17:17:25 2012] [debug] 200 OK (0.027228s, 36.727/s).
