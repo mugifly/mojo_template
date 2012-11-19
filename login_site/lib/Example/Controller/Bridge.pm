@@ -11,7 +11,7 @@ sub login_check {
 	$self->res->headers->add('Access-Control-Allow-Origin', '*');
 	
 	# Cookieの有効期限をセット
-	$self->session(expires => time + 604800); # 604800 = 7day * 24hour * 60min * 60sec
+	$self->session(expiration=> 604800);# 604800 = 7day * 24hour * 60min * 60sec
 	
 	# ユーザ情報ヘルパーをリセット (非ログイン状態をセット)
 	#$self->app->helper('ownUserId' => sub { return undef });
