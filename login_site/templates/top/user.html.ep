@@ -1,0 +1,5 @@
+% layout 'default';
+% title 'User page';
+
+<h2>Userpage</h2>
+Hi! <%= $self->ownUserId %>.

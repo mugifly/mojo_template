@@ -1,5 +1,5 @@
 package Example::DBSchema;
-# データベース スキーマ定義 
+# Database schema definition for Data::Model
 
 use parent qw/ Data::Model /;
 use Data::Model::Schema;

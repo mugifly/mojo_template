@@ -1,0 +1,6 @@
+% layout 'default';
+% title 'Privacy policy';
+<h2>Privacy policy</h2>
+
+<hr>
+<%= link_to '/' => begin %>Top page<% end %>

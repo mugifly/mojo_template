@@ -7,6 +7,8 @@ use Data::Model::Driver::MongoDB;
 
 use Example::DBSchema;
 
+use Net::OAuth2::Client;
+
 # This method will run once at server start
 sub startup {
 	my $self = shift;
@@ -14,46 +16,44 @@ sub startup {
 	# Documentation browser under "/perldoc"
 	$self->plugin('PODRenderer');
 	
-	# ルータの初期化
+	# Initialize router
 	my $r = $self->routes;
 	
-	# ネームスペースのセット
-	$r->namespace('Example::Controller');
+	# Set the namespace of controller
+	$r = $r->namespaces(['Example::Controller']);
 	
-	# 設定のロード
+	# Read the app configuration
 	my $conf = $self->plugin('Config',{file => 'config/config.conf'});
 	
-	# Cookieの暗号化キーをセット
+	# Set the secret key to session cookie
 	$self->secret('Example'.$conf->{secret});
 	
-	# データベースの準備
+	# Prepare the database
 	my $mongoDB = Data::Model::Driver::MongoDB->new( 
-		host => 'localhost',
-		port => 27017,
-		db => 'Example',
+		host =>	$conf->{db_host} || 'localhost',
+		port =>	$conf->{db_port} || '27017',
+		db =>	$conf->{db_name} || 'example',
 	);
 	my $schema = Example::DBSchema->new;
 	$schema->set_base_driver($mongoDB);
 	
-	# データベースヘルパーのセット
+	# Set the database helper
 	$self->attr(db => sub { return $schema; });
 	$self->helper('db' => sub { shift->app->db });
 	
-	# データベースモデルのセット
-	
-	# ユーザ情報ヘルパーのセット
-	$self->helper('ownUserId' => sub { return undef });
-	$self->helper('ownUser' => sub { return undef });
-	$self->stash(logined => 0);
-	
-	# 前処理を行うブリッジ (認証セッションチェックなど)
+	# Bridge for pre-processing (authorization)
 	$r = $r->bridge->to('bridge#login_check');
 	
-	# 通常のルート
-	$r->route('')->to('top#top',);
-	$r->route('/login')->to('session#login');
-	$r->route('/user/edit')->to('user#edit',);
-	$r->route('/logout')->to('session#logout');
+	# Routes
+	$r->route('')->to('top#guest',);
+	$r->route('/top')->to('top#user',);
+	
+	$r->route('/docs/about')->to('docs#about',);
+	$r->route('/docs/privacy')->to('docs#privacy',);
+	
+	$r->route('/session/oauth_twitter_redirect')->to('session#oauth_twitter_redirect');
+	$r->route('/session/oauth_twitter_callback')->to('session#oauth_twitter_callback');
+	$r->route('/session/logout')->to('session#logout');
 }
 
 1;

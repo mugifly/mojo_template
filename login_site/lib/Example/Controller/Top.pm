@@ -1,12 +1,22 @@
 package Example::Controller::Top;
 use Mojo::Base 'Mojolicious::Controller';
 
-# This action will render a template
-sub top {
-  my $self = shift;
+# Toppage for guest
+sub guest {
+	my $self = shift;
+	if ( $self->ownUserId() ne "" ) { $self->redirect_to("/top"); return; }
+	
+	if(defined($self->flash("message_error"))){
+		$self->stash("message_error", $self->flash("message_error"));
+	}
+	
+	$self->render();
+}
 
-  $self->render(
-    message => 'Welcome to the Mojolicious real-time web framework!');
+# Toppage for login user
+sub user {
+	my $self = shift;
+	$self->render();
 }
 
 1;
