@@ -21,7 +21,9 @@ This project has just launched development.
 
 ***
 
-# Required
+## Usage
+
+### Required
 
 perl 5.10 (or later)
 
@@ -32,14 +34,26 @@ and other modules.
 	$ cpan MongoDB
 	$ cpan Net::OAuth2
 
-# Usage (Appname: "HogeHoge")
+### Usage
 
-	cd site_template/
-	find . -name "exmaple" | xargs sed -i "s/Example/HogeHoge/g"
-	find . -name "*.pm" | xargs sed -i "s/Example/HogeHoge/g"
-	find . -name "*.ep" | xargs sed -i "s/Example/HogeHoge/g"
-	find . -name "example" | while read file; do mv $line `echo $file | sed -e 's/example/HogeHoge/'`; done
-	find . -name "*.pm" | while read file; do mv $line `echo $file | sed -e 's/Example/HogeHoge/'`; done
+Please execute the following commands with a console:
+
+	$ git clone
+	$ cd mojo_template/login_site/ 
+	$ morbo script/example 
+
+Then, let's access with browser: http://localhost:3000/
+
+Enjoy web development, with perl + Mojolicious.
+
+### Change the app name (Appname: "HogeHoge")
+
+	$ cd site_template/
+	$ find . -name "exmaple" | xargs sed -i "s/Example/HogeHoge/g"
+	$ find . -name "*.pm" | xargs sed -i "s/Example/HogeHoge/g"
+	$ find . -name "*.ep" | xargs sed -i "s/Example/HogeHoge/g"
+	$ find . -name "example" | while read file; do mv $line `echo $file | sed -e 's/example/HogeHoge/'`; done
+	$ find . -name "*.pm" | while read file; do mv $line `echo $file | sed -e 's/Example/HogeHoge/'`; done
 
 ## Libraries and materials
 
@@ -80,6 +94,8 @@ http://glyphicons.com/
 	but you must always add a link to glyphicons.com in a prominent place (e.g. the footer of a website), 
 	include the CC-BY license and the reference to glyphicons.com on every page using GLYPHICONS.
 
-# Author
+## Author and license
 Masanori Ohgita (http://ohgita.info/).
+
+This template is free software; you can redistribute it and/or modify it　under the same terms as Perl itself.
 
