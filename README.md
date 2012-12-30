@@ -94,8 +94,10 @@ http://glyphicons.com/
 	but you must always add a link to glyphicons.com in a prominent place (e.g. the footer of a website), 
 	include the CC-BY license and the reference to glyphicons.com on every page using GLYPHICONS.
 
-## Author and license
+## Authors and license
 Masanori Ohgita (http://ohgita.info/).
 
-This template is free software; you can redistribute it and/or modify it　under the same terms as Perl itself.
+This template is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+Thanks, Perl Mongers & CPAN authors.
 
