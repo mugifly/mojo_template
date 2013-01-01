@@ -57,7 +57,7 @@ sub renameFiles {
 					$data =~ s/$old_name/$new_name/g;
 					$data =~ s/$old_name_lc/$new_name_lc/g;
 					open (my $fh_, '>', $fpath) or die "Can't open $fpath - $!";
-					print $fh_, $data;
+					print $fh_ $data;
 					close $fh_;
 				}
 				close $fh;
