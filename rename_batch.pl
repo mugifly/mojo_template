@@ -52,15 +52,15 @@ sub renameFiles {
 					local $/ = undef;
 					$data = readline($fh);
 				}
-				close $fh;
 				if($data =~ /$old_name/gi){
 					print "  * Replace: $fpath\n";
 					$data =~ s/$old_name/$new_name/g;
 					$data =~ s/$old_name_lc/$new_name_lc/g;
-					open my $fh, '>', $fpath;
-					print $fh $data;
-					close $fh;
+					open (my $fh_, '>', $fpath) or die "Can't open $fpath - $!";
+					print $fh_, $data;
+					close $fh_;
 				}
+				close $fh;
 			}
 			# File name
 			if($fname =~ /.*$old_name.*/gi){
