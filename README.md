@@ -3,7 +3,9 @@ mojo_template
 
 Templates for quickly web development, with perl + Mojolicious.
 
-This project has just launched development.
+This project is not official.
+
+This project has just launched development (now).
 
 ***
 
@@ -38,22 +40,26 @@ and other modules.
 
 Please execute the following commands with a console:
 
-	$ git clone
-	$ cd mojo_template/login_site/ 
+	$ git clone git://github.com/mugifly/mojo_template.git
+	$ cd mojo_template/login_site/
 	$ morbo script/example 
 
 Then, let's access with browser: http://localhost:3000/
 
 Enjoy web development, with perl + Mojolicious.
 
-### Change the app name (Appname: "HogeHoge")
+### How to change the app name (Appname: "HogeHoge")
 
-	$ cd site_template/
-	$ find . -name "exmaple" | xargs sed -i "s/Example/HogeHoge/g"
-	$ find . -name "*.pm" | xargs sed -i "s/Example/HogeHoge/g"
-	$ find . -name "*.ep" | xargs sed -i "s/Example/HogeHoge/g"
-	$ find . -name "example" | while read file; do mv $line `echo $file | sed -e 's/example/HogeHoge/'`; done
-	$ find . -name "*.pm" | while read file; do mv $line `echo $file | sed -e 's/Example/HogeHoge/'`; done
+You can use the bundled script (rename_batch.pl).
+
+Please execute the following commands with a console:
+
+	$ chmod u+x rename_batch.pl
+	$ ./rename_batch.pl
+	Please enter your new app name ...: HogeHoge
+	Will this do...? [y/n]: y
+	...
+	Complete. let's enjoy!
 
 ## Libraries and materials
 
