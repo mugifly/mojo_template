@@ -21,8 +21,40 @@ while(1){
 	}
 }
 renameFiles($TARGET_DIR_PATH, $DEFAULT_APP_NAME, $new_name);
+renameDirs($TARGET_DIR_PATH, $DEFAULT_APP_NAME, $new_name);
 print "\nComplete. let's enjoy!\n";
 exit;
+
+sub renameDirs {
+	my ($target_dir, $old_name, $new_name) = @_;
+	my $old_name_lc = lc($old_name);
+	my $new_name_lc = lc($new_name);
+	print "\nRename dirs ($old_name ->  $new_name) ...\n";
+	File::Find::find(sub{
+		my $fname = $_;
+		my $fpath = $File::Find::name;
+		my $fdir = $File::Find::dir;
+		eval{
+			if($fpath =~ /\.git\/.*/i){
+				return;
+			}
+			if(-d $fpath){# If directory...
+				if($fname =~ /.*$old_name.*/gi){
+					my $new_fname = $fname;
+					$new_fname =~ s/$old_name/$new_name/g;
+					$new_fname =~ s/$old_name_lc/$new_name_lc/g;
+					print "  * Rename: $fpath -> $new_fname\n";
+					rename($fpath, $new_fname);
+				}
+			}
+		};
+		if($@){
+			print "  [Error!]: $fpath - $@";
+			return;
+		}
+	}, ($target_dir));
+	print "Directories rename Complete.\n";
+}
 
 sub renameFiles {
 	my ($target_dir, $old_name, $new_name) = @_;
@@ -33,19 +65,15 @@ sub renameFiles {
 		my $fname = $_;
 		my $fpath = $File::Find::name;
 		my $fdir = $File::Find::dir;
-		my $is_dir = 0;
 		eval{
-			if($fname =~ /README\.md/ || $fname =~ /LICENSE_.+/){
+			if($fname =~ /README\.md/ || $fname =~ /LICENSE_.+/){# If license documents
+				return;
+			} elsif($fpath =~ /\.git\/.*/i){ # If git directory
 				return;
 			}
-			if($fpath =~ /\.git\/.*/i){
-				return;
-			}
-			if(-d $fpath){
-				$is_dir = 1;
-			}
-			if($is_dir eq 0) {
-				# Content
+			unless(-d $fpath){# If file...
+				
+				# Replace content
 				my $data;		
 				open (my $fh, '<', $fpath) or die "Can't open $fpath - $!";	
 				{
@@ -61,14 +89,15 @@ sub renameFiles {
 					close $fh_;
 				}
 				close $fh;
-			}
-			# File name
-			if($fname =~ /.*$old_name.*/gi){
-				my $new_fname = $fname;
-				$new_fname =~ s/$old_name/$new_name/g;
-				$new_fname =~ s/$old_name_lc/$new_name_lc/g;
-				print "  * Rename: $fpath -> $new_fname\n";
-				rename($fpath, $new_fname);
+				
+				# Rename file
+				if($fname =~ /.*$old_name.*/gi){
+					my $new_fname = $fname;
+					$new_fname =~ s/$old_name/$new_name/g;
+					$new_fname =~ s/$old_name_lc/$new_name_lc/g;
+					print "  * Rename: $fpath -> $new_fname\n";
+					rename($fpath, $new_fname);
+				}
 			}
 		};
 		if($@){
@@ -76,6 +105,6 @@ sub renameFiles {
 			return;
 		}
 	}, ($target_dir));
-	print "Rename Complete.\n";
+	print "Files rename Complete.\n";
 }
 
