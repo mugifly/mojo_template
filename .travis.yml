@@ -4,6 +4,6 @@ perl:
   - "5.14"
 
 install:
-    - cpanm -v --installdeps --notest --mirror http://cpan.mirrors.travis-ci.org . 
+    - "cpanm -v --installdeps --notest --mirror http://cpan.mirrors.travis-ci.org ./login_site/" 
 
 script: "cd login_site/ && perl Makefile.PL && make test"
