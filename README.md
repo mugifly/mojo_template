@@ -13,6 +13,8 @@ This project is not official.
 
 * Mojolicious 3.70 (or later)
 
+    * Mojolicious::Plugin::I18N
+
 * MongoDB
 
 * Data::Model + Data::Model::Driver::MongoDB
@@ -48,6 +50,7 @@ and other modules.
 	$ cpan Data::Model
 	$ cpan MongoDB
 	$ cpan Net::OAuth2
+	$ cpan Mojolicious::Plugin::I18N
 
 ### Usage
 
@@ -85,6 +88,9 @@ Many thanks!!
 
 ### Mojolicious
 https://github.com/kraih/mojo
+
+### Mojolicious::Plugin::I18N
+https://github.com/sharifulin/mojolicious-plugin-i18n
 
 ### Data::Model
 http://github.com/yappo/p5-Data-Model/

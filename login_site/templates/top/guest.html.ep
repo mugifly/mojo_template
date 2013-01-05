@@ -1,9 +1,10 @@
 % layout 'default';
 % title 'Welcome';
-<h2>Welcome to Example</h2>
-<p class="lead">ExampleでMojoliciousを使った効率的なWeb開発をスタートできます。</p>
+<h2><%=l 'top_guest_welcome_mes' %></h2>
+<p class="lead"><%=l 'top_guest_read_mes' %></p>
 <hr>
+<h3><%=l 'top_login' %></h3>
 <p>
-    右上のリンクから、お手持ちのソーシャルアカウントで今すぐログイン。<br>
-    <small>(<%= link_to '/docs/privacy' => class => 'small' => begin %>Privacy policy<% end %>)</small>
+    <%=l 'top_guest_login_mes' %>
+        <small>(<%= link_to '/docs/privacy' => class => 'small' => begin %><%=l 'privacy_policy' %><% end %>)</small>
 </p>

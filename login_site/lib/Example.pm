@@ -16,6 +16,9 @@ sub startup {
 	# Documentation browser under "/perldoc"
 	$self->plugin('PODRenderer');
 	
+	# Load the plugin for Internationalization
+	$self->plugin('I18N' => {default => 'en', namespace => 'Example::I18N', support_url_langs => [qw(ja en)]});
+	
 	# Initialize router
 	my $r = $self->routes;
 	

@@ -40,19 +40,19 @@
             <div class="navbar-inner">
                 <div class="container">
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
-                    <a class="brand" href="#">Example</a>
+                    <a class="brand" href="/"><%=l 'site_name' %></a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             <!-- Navigation -->
                             <% if ($self->current_route eq "" || $self->current_route eq "top") { %>
-                                <li class="active"><a href="/">Home</a></li>
-                                <li><a href="/docs/about">About</a></li>
+                                <li class="active"><a href="/"><%=l 'home' %></a></li>
+                                <li><a href="/docs/about"><%=l 'about' %></a></li>
                             <% } elsif ($self->current_route eq "docsabout") { %>
-                                <li><a href="/">Home</a></li>
-                                <li class="active"><a href="/docs/about">About</a></li>
+                                <li><a href="/"><%=l 'home' %></a></li>
+                                <li class="active"><a href="/docs/about"><%=l 'about' %></a></li>
                             <% } else { %>
-                                <li><a href="/">Home</a></li>
-                                <li><a href="/docs/about">About</a></li>
+                                <li><a href="/"><%=l 'home' %></a></li>
+                                <li><a href="/docs/about"><%=l 'about' %></a></li>
                             <% } %>
                         </ul>
                         
@@ -65,17 +65,17 @@
                             <!-- for guest (login box) -->
                             <ul class="nav pull-right">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Register &amp; Login <b class="caret"></b></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><%=l 'regist_and_login' %><b class="caret"></b></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-header">
-                                            Login with your social account：
+                                            <%=l 'login_with_social_account' %>:
                                         </li>
                                         <li><%= link_to '/session/oauth_twitter_redirect' => begin %>Twitter<% end %>
                                         </li>
                                         
                                         <li class="nav-header">
-                                            Please agree:
-                                            <%= link_to '/docs/privacy' => begin %>Privacy policy<% end %>
+                                            <%=l 'please_agree' %>:
+                                            <%= link_to '/docs/privacy' => begin %><%=l 'privacy_policy' %><% end %>
                                         </li>
                                     </ul>
                                 </li>

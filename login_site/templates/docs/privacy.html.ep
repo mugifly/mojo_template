@@ -1,6 +1,11 @@
 % layout 'default';
 % title 'Privacy policy';
-<h2>Privacy policy</h2>
+<h2><%=l 'privacy_policy' %></h2>
+<pre>Example privacy policy
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
 
-<hr>
-<%= link_to '/' => begin %>Top page<% end %>
+2013-01-01 1st version</pre><hr>
+<p><%= link_to '/' => begin %><%=l 'top_page' %><% end %></p>

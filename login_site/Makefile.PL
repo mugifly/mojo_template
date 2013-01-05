@@ -10,6 +10,7 @@ WriteMakefile(
 	'Data::Model' => 0,
 	'MongoDB' => 0,
 	'Net::OAuth2' => 0,
+	'Mojolicious::Plugin::I18N' => 0,
   },
   test      => {TESTS => 't/*.t'}
 );
