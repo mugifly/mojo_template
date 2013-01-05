@@ -10,8 +10,6 @@ sub guest {
 		$self->stash("message_error", $self->flash("message_error"));
 	}
 	
-	my $iter = $self->app->db->get(user => {where => ['google_token' => "aaa"]});
-	
 	$self->render();
 }
 

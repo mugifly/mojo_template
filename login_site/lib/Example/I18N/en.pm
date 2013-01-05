@@ -10,6 +10,7 @@ our %Lexicon = (
 	about_page => 'About example',
 	privacy_policy => 'Privacy policy',
 	regist_and_login => 'Register & Login',
+	logout => 'Logout',
 	login_with_social_account => 'Login with your social account',
 	please_agree => 'Please agree',
 	top_guest_welcome_mes => 'Welcome to Example',

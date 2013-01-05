@@ -10,6 +10,7 @@ our %Lexicon = (
 	about_page => 'exampleについて',
 	privacy_policy => 'プライバシーポリシー',
 	regist_and_login => '新規登録 & ログイン',
+	logout => 'ログアウト',
 	login_with_social_account => 'ソーシャルアカウントでログイン',
 	please_agree => 'ご同意ください',
 	top_guest_welcome_mes => 'Exampleへようこそ。',
