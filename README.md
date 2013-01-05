@@ -3,9 +3,9 @@ mojo_template
 
 Templates for quickly web development, with perl + Mojolicious.
 
-This project is not official.
-
 This project has just launched development (now).
+
+This project is not official.
 
 ***
 
@@ -22,6 +22,19 @@ This project has just launched development (now).
 * etc...
 
 ***
+
+## Notice
+
+If you have never used Mojolicious, I recommend you to begin application development with Mojolicious::Lite,
+ and refer to [official tutorials](http://mojolicio.us/perldoc/Mojolicious/Lite).
+ 
+Because this template is not official and can't guarantee quality.
+
+## Include templates
+
+* login_site
+	
+	The website that can login using OAuth2.
 
 ## Usage
 
@@ -46,7 +59,12 @@ Please execute the following commands with a console:
 
 Then, let's access with browser: http://localhost:3000/
 
-Enjoy web development, with perl + Mojolicious.
+The "morbo" command is launching the "Mojo::Server::Morbo" daemon, with Application (script/example).
+ (["Mojo::Server::Morbo"](http://mojolicio.us/perldoc/Mojo/Server/Morbo) is a daemon for development. It is bundled with the Mojolicious framework.)
+
+Enjoy the web development! with perl + Mojolicious :)
+please refer to: http://mojolicio.us/perldoc 
+ ([Japanse translation](https://github.com/yuki-kimoto/mojolicious-guides-japanese/wiki))
 
 ### How to change the app name (Appname: "HogeHoge")
 
