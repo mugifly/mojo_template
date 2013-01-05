@@ -44,20 +44,13 @@ Because this template is not official and can't guarantee quality.
 
 perl 5.10 (or later)
 
-and other modules.
-
-	$ cpan Mojolicious
-	$ cpan Data::Model
-	$ cpan MongoDB
-	$ cpan Net::OAuth2
-	$ cpan Mojolicious::Plugin::I18N
-
 ### Usage
 
 Please execute the following commands with a console:
 
 	$ git clone git://github.com/mugifly/mojo_template.git
 	$ cd mojo_template/login_site/
+	$ cpan .
 	$ morbo script/example 
 
 Then, let's access with browser: http://localhost:3000/
