@@ -65,17 +65,17 @@
                             <!-- for guest (login box) -->
                             <ul class="nav pull-right">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">新規登録 &amp; ログイン <b class="caret"></b></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Register &amp; Login <b class="caret"></b></a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-header">
-                                            お手持ちのソーシャルアカウントで今すぐログイン：
+                                            Login with your social account：
                                         </li>
                                         <li><%= link_to '/session/oauth_twitter_redirect' => begin %>Twitter<% end %>
                                         </li>
                                         
                                         <li class="nav-header">
-                                            ご利用の前にご同意ください
-                                            <%= link_to '/docs/privacy' => begin %>プライバシーポリシー<% end %>
+                                            Please agree:
+                                            <%= link_to '/docs/privacy' => begin %>Privacy policy<% end %>
                                         </li>
                                     </ul>
                                 </li>
@@ -124,7 +124,10 @@
 
             <footer class="pull-right">
                 <p>
-                    &copy; mugifly Example Project - 2012.
+                    &copy; Example project - 2013.<br>
+                    <!-- You can also remove this :) -->
+                    Template by <%= link_to "https://github.com/mugifly/mojo_template" => begin %>mojo_template<% end %> Project.
+                    <!---->
                 </p>
             </footer>
         </div>

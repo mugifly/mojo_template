@@ -1,9 +1,8 @@
 % layout 'default';
 % title 'Welcome';
-<h2>Welcome to Example</h2>
+<h2>Exampleへようこそ</h2>
 <p class="lead">ExampleでMojoliciousを使った効率的なWeb開発をスタートできます。</p>
-<hr>
 <p>
     右上のリンクから、お手持ちのソーシャルアカウントで今すぐログイン。<br>
-    <small>(<%= link_to '/docs/privacy' => class => 'small' => begin %>Privacy policy<% end %>)</small>
+    <small>(<%= link_to '/docs/privacy' => class => 'small' => begin %>プライバシーポリシー<% end %>)</small>
 </p>
