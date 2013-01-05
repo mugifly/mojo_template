@@ -17,7 +17,8 @@ sub register {
 				site	=>	'https://oauth.twitter.com',
 				authorize_path	=>	'/2/authorize',
 				access_token_path=>	'/o/oauth2/token',
-			)->web_server(redirect_uri => ($app->config()->{base_url}) .'session/oauth_twitter_callback');
+			)->web_server(oauth_client_identifier => $app->config()->{oauth_twitter_key},
+				oauth_callback_url => ($app->config()->{base_url}) .'session/oauth_twitter_callback');
 		}
 	);
 }
