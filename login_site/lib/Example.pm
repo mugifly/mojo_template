@@ -54,8 +54,8 @@ sub startup {
 	$r->route('/docs/about')->to('docs#about',);
 	$r->route('/docs/privacy')->to('docs#privacy',);
 	
-	$r->route('/session/oauth_twitter_redirect')->to('session#oauth_twitter_redirect');
-	$r->route('/session/oauth_twitter_callback')->to('session#oauth_twitter_callback');
+	$r->route('/session/oauth_google_redirect')->to('session#oauth_google_redirect');
+	$r->route('/session/oauth_google_callback')->to('session#oauth_google_callback');
 	$r->route('/session/logout')->to('session#logout');
 }
 

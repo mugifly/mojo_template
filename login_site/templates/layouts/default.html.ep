@@ -70,7 +70,7 @@
                                         <li class="nav-header">
                                             <%=l 'login_with_social_account' %>:
                                         </li>
-                                        <li><%= link_to '/session/oauth_twitter_redirect' => begin %>Twitter<% end %>
+                                        <li><%= link_to '/session/oauth_google_redirect' => begin %>Google<% end %>
                                         </li>
                                         
                                         <li class="nav-header">

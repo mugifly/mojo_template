@@ -13,8 +13,10 @@ column_sugar 'user.id';
 # Collection: user
 install_model user => schema {
 	key 'id';
-	index 'twitter_token';
-	columns qw/ name twitter_token /;
+	index 'session_token';
+	index 'google_id';
+	index 'google_token';
+	columns qw/ name session_token google_id google_token /;
 	column 'user.id';
 };
 

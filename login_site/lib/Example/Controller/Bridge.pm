@@ -21,10 +21,11 @@ sub login_check {
 	# Check a session
 	if($self->session('session_token')){ # If user-agent has a session...
 		# Find a matching user from the database
-		my $user = $self->getUserObj('session_token' => $self->session('session_token'));
-		if($user->{isFound}){ # If user-agent is valid user...
-			$self->app->helper('ownUserId' => sub { return $user->{id} });
-			$self->app->helper('ownUser' => sub { return $user });
+		my $iter = $self->{db}->get(user => {where => ['google_token' => $self->session('session_token')]});
+		my $itemRow = $iter->next;
+		if(($itemRow)){ # If user-agent is valid user...
+			$self->app->helper('ownUserId' => sub { return $itemRow->id });
+			$self->app->helper('ownUser' => sub { return $itemRow });
 			$self->stash(logined => 1);
 			return 1;
 		}
