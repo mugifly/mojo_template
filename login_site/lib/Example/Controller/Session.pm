@@ -47,7 +47,7 @@ sub oauth_google_callback {
 	my $user_id = $profile->{email};
 	
 	# Insert/Update user to DB
-	my $iter = $self->{db}->get(user => {where => [google_id => $user_id]});
+	my $iter = $self->app->db->get(user => {where => [google_id => $user_id]});
 	if(my $row = $iter->next){
 		# Update
 		$row->google_id($user_id);
@@ -56,7 +56,7 @@ sub oauth_google_callback {
 		$row->update();
 	}else{
 		# Insert (Set)
-		$self->{db}->set(user => {
+		$self->app->db->set(user => {
 			name => $user_id,
 			google_id => $user_id,
 			google_token => $access_token->{access_token},
