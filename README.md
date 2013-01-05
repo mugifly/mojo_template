@@ -1,4 +1,4 @@
-mojo_template
+mojo_template [![Build Status](https://travis-ci.org/mugifly/mojo_template.png?branch=master)](https://travis-ci.org/mugifly/mojo_template)
 ====
 
 Templates for quickly web development, with perl + Mojolicious.
