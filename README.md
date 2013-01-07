@@ -32,19 +32,23 @@ If you have never used Mojolicious, I recommend you to begin application develop
  
 Because this template is not official and can't guarantee quality.
 
-## Include templates
+## Available templates
 
 * login_site
 	
-	The website that can login using OAuth2.
+	The website that can login using OAuth2 (Google Account).
 
 ## Usage
 
 ### Required
 
-perl 5.10 (or later)
+* perl 5.10 (or later)
 
-### Usage
+* mongodb - http://www.mongodb.org/
+	
+	It is running by default settings (localhost:27017).
+
+### Usage - start development
 
 Please execute the following commands with a console:
 
@@ -62,6 +66,8 @@ Enjoy the web development! with perl + Mojolicious :)
 please refer to: http://mojolicio.us/perldoc 
  ([Japanse translation](https://github.com/yuki-kimoto/mojolicious-guides-japanese/wiki))
 
+IN ADDITION: You must configure when you use to OAuth login on template application. (please refer to "Configure" section in the bottom.)
+
 ### How to change the app name (Appname: "HogeHoge")
 
 You can use the bundled script (rename_batch.pl).
@@ -74,6 +80,20 @@ Please execute the following commands with a console:
 	Will this do...? [y/n]: y
 	...
 	Complete. let's enjoy!
+
+### Configure
+
+*"login_site" template:
+	
+	login_site/config/config.conf
+	
+	You must set the Google OAuth key/secret and other values to it.
+
+## Files
+
+* README.md	-	This file.
+* login_site/	-	"login_site" template.
+    * lib/
 
 ## Libraries and materials
 
