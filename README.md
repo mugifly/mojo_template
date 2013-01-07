@@ -44,9 +44,7 @@ Because this template is not official and can't guarantee quality.
 
 * perl 5.10 (or later)
 
-* mongodb - http://www.mongodb.org/
-	
-	It is running by default settings (localhost:27017).
+* [mongodb](http://www.mongodb.org/) - It must be running on default settings (localhost:27017).
 
 ### Usage - start development
 
@@ -59,6 +57,8 @@ Please execute the following commands with a console:
 
 Then, let's access with browser: http://localhost:3000/
 
+So, you will be able to access the web application ("login_site" template).
+
 The "morbo" command is launching the "Mojo::Server::Morbo" daemon, with Application (script/example).
  (["Mojo::Server::Morbo"](http://mojolicio.us/perldoc/Mojo/Server/Morbo) is a daemon for development. It is bundled with the Mojolicious framework.)
 
@@ -68,7 +68,7 @@ please refer to: http://mojolicio.us/perldoc
 
 IN ADDITION: You must configure when you use to OAuth login on template application. (please refer to "Configure" section in the bottom.)
 
-### How to change the app name (Appname: "HogeHoge")
+### How to change the app name (example: "HogeHoge")
 
 You can use the bundled script (rename_batch.pl).
 
