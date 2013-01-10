@@ -63,10 +63,10 @@ The "morbo" command is launching the "Mojo::Server::Morbo" daemon, with Applicat
  (["Mojo::Server::Morbo"](http://mojolicio.us/perldoc/Mojo/Server/Morbo) is a daemon for development. It is bundled with the Mojolicious framework.)
 
 Enjoy the web development! with perl + Mojolicious :)
-please refer to: http://mojolicio.us/perldoc 
+please see to: http://mojolicio.us/perldoc 
  ([Japanse translation](https://github.com/yuki-kimoto/mojolicious-guides-japanese/wiki))
 
-IN ADDITION: You must configure when you use to OAuth login on template application. (please refer to "Configure" section in the bottom.)
+IN ADDITION: You must configure when you use to OAuth login on template application. (please see "Configure" section in the bottom.)
 
 ### How to change the app name (example: "HogeHoge")
 
@@ -91,9 +91,7 @@ Please execute the following commands with a console:
 
 ## Files
 
-* README.md	-	This file.
-* login_site/	-	"login_site" template.
-    * lib/
+see wiki page: https://github.com/mugifly/mojo_template/wiki/Files
 
 ## Libraries and materials
 
